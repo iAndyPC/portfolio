@@ -20,7 +20,7 @@
   display: flex;
   justify-content: space-between;
   width: 100%;
-  padding-top: 30px;
+  padding-top: 40px;
   background-color: var(--background-color-gray);
   border-left: 1px solid var(--border-color);
   border-top: 1px solid var(--border-color);
